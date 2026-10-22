@@ -82,17 +82,33 @@ What year was John F. Kennedy assassinated?
 When did the tragic event occur involving the 35th President of the United States?
 ```
 
-# Citation
-If you find DP-GTR useful, please cite here:
-
-```bibtex
-@article{li2025dp,
-  title={DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting},
-  author={Li, Mingchen and Fan, Heng and Fu, Song and Ding, Junhua and Feng, Yunhe},
-  journal={arXiv preprint arXiv:2503.04990},
-  year={2025}
-}
-```
-
 # Acknowledgements
 [Responsible AI Lab](https://rlab.unt.edu/), University of North Texas
+
+# Citation
+
+If you find DP-GTR useful, please cite our paper:
+
+```bibtex
+@inproceedings{li-etal-2025-dp,
+    title = "{DP}-{GTR}: Differentially Private Prompt Protection via Group Text Rewriting",
+    author = "Li, Mingchen  and
+      Fan, Heng  and
+      Fu, Song  and
+      Ding, Junhua  and
+      Feng, Yunhe",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.83/",
+    doi = "10.18653/v1/2025.findings-emnlp.83",
+    pages = "1573--1585",
+    ISBN = "979-8-89176-335-7"
+}
+```
