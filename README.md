@@ -81,3 +81,18 @@ What year was John F. Kennedy assassinated?
 ```
 When did the tragic event occur involving the 35th President of the United States?
 ```
+
+# Citation
+If you find DP-GTR useful, please cite here:
+
+```bibtex
+@article{li2025dp,
+  title={DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting},
+  author={Li, Mingchen and Fan, Heng and Fu, Song and Ding, Junhua and Feng, Yunhe},
+  journal={arXiv preprint arXiv:2503.04990},
+  year={2025}
+}
+```
+
+# Acknowledgements
+[Responsible AI Lab](https://rlab.unt.edu/), University of North Texas
